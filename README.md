@@ -2,7 +2,7 @@
 #### Glad To See You Here! 🤩
 
 
-- 🌱 I’m currently  **SDE-1 at Mobile Premier League (MPL)**
+- 🌱 I’m currently  **SDE-2 at Mobile Premier League (MPL)**
 - 👯 I’m looking to collaborate on **Fascination projects**
 - 💻 I'm available to work with **enterprising teams**
 
